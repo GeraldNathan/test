@@ -1,1 +1,2 @@
-# Document to check Git client.
+# Documentation / observation
+Haproxy configuration 1
