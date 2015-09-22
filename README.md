@@ -1,1 +1,1 @@
-# Test document to check Git client.
+# Document to check Git client.
